@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/player_info?useSSL=false
     username: root
-    password: rootroot
+    password: kahng
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:
